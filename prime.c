@@ -28,5 +28,6 @@ void main()
             printf("Prime number");
         else    
             printf("Not a prime");
+        return 0;
     }
 }
